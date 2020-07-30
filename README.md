@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e3746b1f76557a69f03c50448c8fe9f0a787d34e
 # Swa-Vuejs
 Bootcamp Cloud Computing & Serverless do Digital Innovation One.
 Aula da Glaucia na Digital Innovation One
 
 Visual Studio Code v1.47.2.
 Vue CLI v4.4.0.
+<<<<<<< HEAD
 =======
 # Aplicação Todo List Vue.js 2 com SWA + GitHub Actions
 
@@ -88,3 +92,5 @@ Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-w
 
 Caso tenham dúvidas aos códigos dos projetos relacionados aos workshops, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/vue-chat-swa/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 >>>>>>> b38efd9... Aula SWA na Digital Innovation One
+=======
+>>>>>>> e3746b1f76557a69f03c50448c8fe9f0a787d34e
